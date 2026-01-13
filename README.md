@@ -2,18 +2,18 @@
 
 A practical workflow to automate CIF extraction from **Pearson’s Crystal Data (PCD)** using **AutoHotkey** and **Python**.
 
-This project was developed to support high-throughput materials research where large numbers of CIF files must be collected efficiently for analysis or machine-learning pipelines.
+This workflow was designed to facilitate high-throughput CIF collection for machine-learning applications using Pearson’s Crystal Data (PCD).
 
----
+The AutoHotkey automation targets the first ≤20 entries per composition, consistent with PCD’s batch export limitation. This constraint is well suited to ternary and multicomponent systems, which generally yield a limited number of crystallographic entries, allowing full dataset retrieval without loss.
 
 ## 🔧 Features
 
-- Automates **element-based searches** in Pearson’s Crystal Data
-- Uses **AutoHotkey** to control the PCD GUI (selection criteria, answer sets, export)
-- Supports **batch CIF export**
-- Splits multi-entry CIF files into **individual CIFs**
-- Renames CIF files using their **chemical formula**
-- Designed for compositions with limited entries per search
+-Automates element-based searches in Pearson’s Crystal Data (PCD)
+-Uses AutoHotkey to control the PCD GUI and export CIF files
+-Supports batch CIF export (up to PCD’s 20-entry limit)
+-Splits batch CIFs into individual CIF files
+-Renames CIFs using their chemical formulas
+-Optimized for compositions with few entries (e.g., ternary and higher-order systems)
 
 ---
 
