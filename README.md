@@ -58,4 +58,8 @@ Python packages used:
 - This script:
   - Splits multi-entry CIF files into individual CIFs
   - Renames CIF files using their extracted chemical formulas
+    
+## 👨‍💻 Authors
+
+This project was developed by **Amit Kumar**, under the guidance of **Prof. Jakoah Brgoch**.
 
