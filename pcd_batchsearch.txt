@@ -1,0 +1,9 @@
+Al AND Ca AND Lu AND O AND Si | nelements=5
+Al AND Ca AND Nb AND O | nelements=4
+Ca AND Ga AND Ge AND O AND Y | nelements=5
+Ga AND Ge AND O AND Zn | nelements=4
+Ga AND La AND Mg AND O | nelements=4
+Ga AND Li AND O AND Ti | nelements=4
+Ga AND Lu AND O AND Sc | nelements=4
+La AND Mg AND O AND P AND Sr | nelements=5
+Li AND Mg AND O AND Sn | nelements=4
