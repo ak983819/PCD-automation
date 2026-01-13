@@ -8,12 +8,12 @@ The AutoHotkey automation targets the first ≤20 entries per composition, consi
 
 ## 🔧 Features
 
--**Automates element-based searches in Pearson’s Crystal Data (PCD)**
--**Uses AutoHotkey to control the PCD GUI and export CIF files**
--**Supports batch CIF export (up to PCD’s 20-entry limit)**
--**Splits batch CIFs into individual CIF files**
--**Renames CIFs using their chemical formulas**
--**Optimized for compositions with few entries (e.g., ternary and higher-order systems)**
+- **Automates element-based searches in Pearson’s Crystal Data (PCD)**
+- **Uses AutoHotkey to control the PCD GUI and export CIF files**
+- **Supports batch CIF export (up to PCD’s 20-entry limit)**
+- **Splits batch CIFs into individual CIF files**
+- **Renames CIFs using their chemical formulas**
+- **Optimized for compositions with few entries (e.g., ternary and higher-order systems)**
 
 ---
 
